@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nashvel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://www.gifcen.com/wp-content/uploads/2024/05/satoru-gojo-gif.gif" width="230">
-<p><em>Backend Developer at <a href="http://nachtofthenight.netlify.app">University of Myself</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at<a href="https://www.thoughtworks.com">Myself again</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Backend Developer at <a href="http://nachtofthenight.netlify.app">University of Myself</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.thoughtworks.com">Myself again</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: nacht](https://img.shields.io/twitter/follow/NNashidk?style=social)](https://x.com/NNashidk)
