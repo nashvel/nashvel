@@ -1,4 +1,4 @@
-<h2> Hi, I'm Nashvel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHllNW0yOGRmNXZlenp5d3ZzYWN1Nmoyb212YWZoZ3lzem13cTBhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tGkPjENGxKZlLP50zJ/giphy.gif" width="30"> Hi, I'm Nashvel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpydHY3NTlkMW1maXU5M2RrNGJ5aGF3MGN2aXVkMzNtdnp4NnhjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYCnmdOHWqUWjSM/giphy.gif" width="230">
 <p><em>Backend Developer at <a href="http://nachtofthenight.netlify.app">University of Myself</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.thoughtworks.com">Myself again</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -28,7 +28,7 @@ const japan = {
 
 ---
 
-# 📊 GitHub Stats:
+# https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmVwc2Z0aHB6dHV1d3hhaWMycmxlOTc3YzlhdjVvbzY2a3lnMmg1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SKab6E8Qeg7sY/giphy.gif
 <table>
 <tr>
 <td width="50%">
