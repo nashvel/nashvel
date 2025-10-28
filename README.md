@@ -28,7 +28,7 @@ const japan = {
 
 ---
 
-# https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmVwc2Z0aHB6dHV1d3hhaWMycmxlOTc3YzlhdjVvbzY2a3lnMmg1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SKab6E8Qeg7sY/giphy.gif
+# <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmVwc2Z0aHB6dHV1d3hhaWMycmxlOTc3YzlhdjVvbzY2a3lnMmg1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SKab6E8Qeg7sY/giphy.gif" width="50"> GitHub Stats:
 <table>
 <tr>
 <td width="50%">
