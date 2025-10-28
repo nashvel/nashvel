@@ -4,13 +4,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nashvel/nashvel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nashvel/nashvel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nashvel/nashvel/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHllNW0yOGRmNXZlenp5d3ZzYWN1Nmoyb212YWZoZ3lzem13cTBhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tGkPjENGxKZlLP50zJ/giphy.gif" width="30">, I'm Nashvel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
