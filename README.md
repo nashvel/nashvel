@@ -1,14 +1,14 @@
 <div align="center">
 
-# NASHVEL
+# [NASHVEL](https://nashvel.com)
 
 **Software Engineer · Backend Developer**
 
 Building scalable, reliable, and maintainable software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=vercel&logoColor=white)](https://nachtofthenight.netlify.app)
+[![Website](https://img.shields.io/badge/nashvel.com-181717?style=flat-square&logo=vercel&logoColor=white)](https://nashvel.com)
 [![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:nash.backup21@gmail.com)
-[![X](https://img.shields.io/badge/Twitter-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/NNasidk)
+[![X](https://img.shields.io/badge/X-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/NNasidk)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-181717?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27668804)
 
 </div>
@@ -17,8 +17,8 @@ Building scalable, reliable, and maintainable software.
 
 ## About Me
 
-I'm a software engineer with a strong focus on backend
-development, system architecture, and performance engineering.
+I'm a software engineer with a strong focus on backend development,
+system architecture, and performance engineering.
 
 I enjoy understanding how systems work beneath the surface,
 solving complex technical problems, and designing software
@@ -68,11 +68,12 @@ that is reliable, secure, and easy to maintain.
 ```typescript
 const engineer = {
   name: "Nashvel",
+  website: "https://nashvel.com",
   focus: "Backend & Systems Engineering",
 
   principles: [
     "Understand before implementing",
-    "Architecture before complexity",
+    "Favor simplicity over unnecessary complexity",
     "Fix root causes, not symptoms",
     "Security by design",
     "Measure before optimizing",
@@ -104,6 +105,7 @@ const engineer = {
 <div align="center">
 
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nashvel&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashvel&theme=transparent&hide_border=true&layout=compact" alt="Most Used Languages" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nashvel&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity" />
@@ -117,8 +119,12 @@ const engineer = {
 I'm open to technical discussions, open-source collaboration,
 and opportunities to build meaningful software.
 
+Visit my personal website at **[nashvel.com](https://nashvel.com)**
+to learn more about me and my work.
+
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=vercel&logoColor=white)](https://nashvel.com)
 [![Facebook](https://img.shields.io/badge/Facebook-181717?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/github.nacht)
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_nashidk)
 [![Pinterest](https://img.shields.io/badge/Pinterest-181717?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/nachtlevh)
@@ -148,6 +154,10 @@ my open-source work.
 <sub>Engineering with purpose. Building with precision.</sub>
 
 <br />
+
+<a href="https://nashvel.com">nashvel.com</a>
+
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=nashvel&style=flat-square&color=181717&label=Profile+Views" alt="Profile Views" />
 
